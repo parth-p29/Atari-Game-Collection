@@ -7,6 +7,7 @@ These are the games I made with Python, using the Pygame library. I developed sk
 Things you will need for these games:
 
 a) Have Python (any version is fine) downloaded
+
 b) pip install pygame - which downloads the pygame library into your environment
 
 Project 1: Color Pong!
