@@ -11,6 +11,8 @@ a) Have Python (any version is fine) downloaded
 b) pip install pygame - which downloads the pygame library into your environment
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Project 1: Color Pong!
 
