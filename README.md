@@ -21,7 +21,8 @@ This is a variation of classic 90s game - Pong. The slight twist I added in my v
 
 Project 2: Space Invaders
 
-I developed the classic Space Invaders game in which you control a spaceship and shoot lasers to destroy incoming alien battleships. There are multiples of waves of enemies that the player has to defeat and the aliens can shoot back at you too! Every enemy that you don't kill by the time they pass by, you lose 5% of your overall health. You have 3 lives in total and once you loose all three of them its game over. Enjoy!
+I developed the classic Space Invaders game in which you control a spaceship and shoot lasers to destroy incoming alien battleships. There are multiples of waves of enemies that the player has to defeat and the aliens can shoot back at you too! Every enemy that you don't kill by the time they pass by, you lose 5% of your overall health. You have 3 lives in total and once you loose all three of them its game over. Enjoy! Some concepts I used to make this game include: Object Orientated Programming - classes and inheritance.
+
 
 
 
