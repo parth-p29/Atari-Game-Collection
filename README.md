@@ -26,7 +26,8 @@ I developed the classic Space Invaders game in which you control a spaceship and
 
 Project 3: Snake Game
 
-I developed the classic Snake game in which the player controls a snake that grows whenever it eats the 'food.' If the player makes the snake run into itself the game is over. In this project I also added a lot of sprites to make the game look more pleasant than just a ball in a black background. 
+I developed the classic Snake game in which the player controls a snake that grows whenever it eats the 'food.' If the player makes the snake run into itself the game is over. In this project I also added a lot of sprites to make the game look more pleasant than just a ball in a black background. I hope you enjoy playing this classic game!
+
 
 
 
