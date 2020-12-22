@@ -24,6 +24,10 @@ Project 2: Space Invaders
 I developed the classic Space Invaders game in which you control a spaceship and shoot lasers to destroy incoming alien battleships. There are multiples of waves of enemies that the player has to defeat and the aliens can shoot back at you too! Every enemy that you don't kill by the time they pass by, you lose 5% of your overall health. You have 3 lives in total and once you loose all three of them its game over. Enjoy! Some concepts I used to make this game include: Object Orientated Programming - classes and inheritance.
 
 
+Project 3: Snake Game
+
+I developed the classic Snake game in which the player controls a snake that grows whenever it eats the 'food.' If the player makes the snake run into itself the game is over. In this project I also added a lot of sprites to make the game look more pleasant than just a ball in a black background. 
+
 
 
 
