@@ -28,6 +28,10 @@ Project 3: Snake Game
 
 I developed the classic Snake game in which the player controls a snake that grows whenever it eats the 'food.' If the player makes the snake run into itself the game is over. In this project I also added a lot of sprites to make the game look more pleasant than just a ball in a black background. I hope you enjoy playing this classic game!
 
+Project 4: Tic Tac Toe
+
+I made everyone's favourite simplistic game - tic tac toe. I made sure 2 players can play it and also included a GUI so that the player has a better time when playing!
+
 
 
 
