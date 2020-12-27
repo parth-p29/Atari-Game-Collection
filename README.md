@@ -1,8 +1,14 @@
 Python-Games - Atari Game Collection
 
+Introduction
+------------------------------
+
 Hello Everyone!
 
 These are the games I made with Python, using the Pygame library. I developed skills such as object orientated programming, inheritance, problem-solving etc. when creating these projects and became proficient with Python. I also taught students how to build some of these games, during my time as an Exec Teacher in my School's CS Club.
+
+Requirements 
+---------------------------
 
 Things you will need for these games:
 
@@ -13,6 +19,8 @@ b) pip install pygame - which downloads the pygame library into your environment
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Games I Built
+-----------------------------------
 
 Project 1: Color Pong!
 
